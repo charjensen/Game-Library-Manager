@@ -4,19 +4,19 @@ A web-based app that consolidates a user's Steam library into one place, providi
 
 ---
 
-## 🚀 **Features**
+## **Features**
 
-✅ **Steam Login Integration** – Log in using your Steam account via OpenID.  
-✅ **Game Display** – View your entire Steam library with playtime, cover art, and details fetched from SteamGridDB.  
-✅ **Sorting and Filtering** – Sort by playtime, name, or completion status and filter by playtime range or multiplayer status.  
-✅ **Game Completion Tracking** – Mark games as completed to remove them from future recommendations.  
-✅ **Game Recommendations** – Uses the IGDB API to recommend the next shortest game to play based on playtime.  
-✅ **Settings Page** – Customize sorting options, playtime filtering, multiplayer visibility, and more.  
-✅ **Responsive and Fast** – Utilizes `React.memo`, `useCallback`, and backend-side filtering for high performance.
+**Steam Login Integration** – Log in using your Steam account via OpenID.  
+**Game Display** – View your entire Steam library with playtime, cover art, and details fetched from SteamGridDB.  
+**Sorting and Filtering** – Sort by playtime, name, or completion status and filter by playtime range or multiplayer status.  
+**Game Completion Tracking** – Mark games as completed to remove them from future recommendations.  
+**Game Recommendations** – Uses the IGDB API to recommend the next shortest game to play based on playtime.  
+**Settings Page** – Customize sorting options, playtime filtering, multiplayer visibility, and more.  
+**Responsive and Fast** – Utilizes `React.memo`, `useCallback`, and backend-side filtering for high performance.
 
 ---
 
-## 🛠️ **Tech Stack**
+## **Tech Stack**
 
 | Technology          | Purpose                                        |
 | ------------------- | ---------------------------------------------- |
@@ -33,7 +33,7 @@ A web-based app that consolidates a user's Steam library into one place, providi
 
 ---
 
-## 🔥 **Getting Started**
+## **Getting Started**
 
 ### 1. **Clone the repository**
 
@@ -102,7 +102,7 @@ npm run dev
 
 ---
 
-## ✅ **Usage**
+## **Usage**
 
 1. Open [http://localhost:5173](http://localhost:5173)
 2. Log in with your Steam account
