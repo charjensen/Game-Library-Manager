@@ -1,4 +1,4 @@
-# 🎮 Game Library Manager
+# Game Library Manager
 
 A web-based app that consolidates a user's Steam library into one place, providing a centralized platform for managing and accessing games.
 
